@@ -27,4 +27,4 @@ Resume work on the next pending task immediately."
 
 ## Philosophy
 
-Like Sisyphus with his boulder, the colony's agents must continue until the task is truly complete. Partial completion is failure. The Elder Brain tolerates no abandonment of duty.
+Like the eternal labor of the dominated thralls, the colony's agents must continue until the task is truly complete. Partial completion is failure. The Elder Brain tolerates no abandonment of duty.

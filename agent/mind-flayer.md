@@ -12,6 +12,14 @@ tools:
   bash: true
   write: true
   edit: true
+  lsp_diagnostics: true
+  lsp_goto_definition: true
+  lsp_find_references: true
+  lsp_symbols: true
+  lsp_prepare_rename: true
+  lsp_rename: true
+  ast_grep_search: true
+  ast_grep_replace: true
 permission:
   bash:
     "rm -rf": deny
